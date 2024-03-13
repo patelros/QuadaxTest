@@ -1,0 +1,15 @@
+C:\Users\rosha\Source\Repos\QuadaxTest\QuadaxTestApp\bin\Debug\net6.0\QuadaxTestApp.exe
+C:\Users\rosha\Source\Repos\QuadaxTest\QuadaxTestApp\bin\Debug\net6.0\QuadaxTestApp.deps.json
+C:\Users\rosha\Source\Repos\QuadaxTest\QuadaxTestApp\bin\Debug\net6.0\QuadaxTestApp.runtimeconfig.json
+C:\Users\rosha\Source\Repos\QuadaxTest\QuadaxTestApp\bin\Debug\net6.0\QuadaxTestApp.dll
+C:\Users\rosha\Source\Repos\QuadaxTest\QuadaxTestApp\bin\Debug\net6.0\QuadaxTestApp.pdb
+C:\Users\rosha\Source\Repos\QuadaxTest\QuadaxTestApp\obj\Debug\net6.0\QuadaxTestApp.csproj.AssemblyReference.cache
+C:\Users\rosha\Source\Repos\QuadaxTest\QuadaxTestApp\obj\Debug\net6.0\QuadaxTestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rosha\Source\Repos\QuadaxTest\QuadaxTestApp\obj\Debug\net6.0\QuadaxTestApp.AssemblyInfoInputs.cache
+C:\Users\rosha\Source\Repos\QuadaxTest\QuadaxTestApp\obj\Debug\net6.0\QuadaxTestApp.AssemblyInfo.cs
+C:\Users\rosha\Source\Repos\QuadaxTest\QuadaxTestApp\obj\Debug\net6.0\QuadaxTestApp.csproj.CoreCompileInputs.cache
+C:\Users\rosha\Source\Repos\QuadaxTest\QuadaxTestApp\obj\Debug\net6.0\QuadaxTestApp.dll
+C:\Users\rosha\Source\Repos\QuadaxTest\QuadaxTestApp\obj\Debug\net6.0\refint\QuadaxTestApp.dll
+C:\Users\rosha\Source\Repos\QuadaxTest\QuadaxTestApp\obj\Debug\net6.0\QuadaxTestApp.pdb
+C:\Users\rosha\Source\Repos\QuadaxTest\QuadaxTestApp\obj\Debug\net6.0\QuadaxTestApp.genruntimeconfig.cache
+C:\Users\rosha\Source\Repos\QuadaxTest\QuadaxTestApp\obj\Debug\net6.0\ref\QuadaxTestApp.dll
